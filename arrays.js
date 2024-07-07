@@ -294,3 +294,6 @@ function removerTresPrimerosElemntos(arreglo){
 
 const arregloFinal = removerTresPrimerosElemntos(arregloInicial);
 console.log(arregloFinal);
+
+
+console.log(arregloFinal);
